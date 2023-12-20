@@ -1,0 +1,7 @@
+git add filename - to add the file
+git commit -m "message" filename - to commmit the file
+git remote -v - to check the origin
+git branch branchname - to add the branch
+git checkot branchname - to change the branch
+git remote add origin url - to add the origin, url is ssh or http url in github
+git push -u origin branchname - to push the file in to github
